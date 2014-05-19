@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+
 ##******************
 ## makeCacheMatrix *
 ##******************
@@ -24,7 +25,6 @@ m_inv<- NULL # the variable in which store the inverse
 ##*************
 ## cacheSolve *
 ##*************
-
 
 ## Write a short comment describing this function
 ## Calculates the inverse of the "matrix "special matrix" created with the 
