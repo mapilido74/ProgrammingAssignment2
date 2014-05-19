@@ -2,6 +2,10 @@
 ## functions do
 
 ## Write a short comment describing this function
+##******************
+## makeCacheMatrix *
+##******************
+
 ## Create a special objet that stores a matrix and cache it's inverse
 makeCacheMatrix <- function(x = matrix()) {
 m_inv<- NULL # the variable in which store the inverse
@@ -16,6 +20,10 @@ m_inv<- NULL # the variable in which store the inverse
          setinv = setinv,
          getinv = getinv) # return the "special matrix"
 }
+
+##*************
+## cacheSolve *
+##*************
 
 
 ## Write a short comment describing this function
